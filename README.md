@@ -57,12 +57,13 @@ Instead of using the default threshold (0.5), the classification threshold is lo
 
 ## Results
 
-Accuracy: 0.67
-ROC-AUC: 0.77
+- Accuracy: 0.67
+- ROC-AUC: 0.77
 
 **Confusion Matrix**
-[[3881 6874]
-[1192 12574]] 
+
+- 3881 vs 6874
+- 1192 vs 12574
 
 ### Interpretation
 
